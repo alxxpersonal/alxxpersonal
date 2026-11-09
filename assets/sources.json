@@ -1,0 +1,15 @@
+{
+  "icons": {
+    "source": "https://github.com/devicons/devicon",
+    "license": "DEVICON-LICENSE.txt",
+    "names": [
+      "python",
+      "go",
+      "typescript",
+      "swift",
+      "amazonwebservices",
+      "rust",
+      "postgresql"
+    ]
+  }
+}
